@@ -21,6 +21,10 @@ body {
   font-family: "Inter", "DM Sans", Arial, sans-serif;
 }
 
+h1 {
+  text-decoration: none;
+}
+
 *,
 *::before,
 *::after {
